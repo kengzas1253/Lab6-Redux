@@ -36,4 +36,4 @@ const reducers = combineReducers({
 })
 
 //create store
-export const store = createStore(reducers,applyMiddleware());
+export const store = createStore(reducers,applyMiddleware(logger));

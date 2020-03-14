@@ -10,7 +10,7 @@ const InputForm = props => {
 
    
     const addBear = async () => {
-        const result = await axios.post(`http://localhost/api/bears/`, form)
+        await axios.post(`http://localhost/api/bears/`, form)
         dispatch({
             type: 'ADD_BEAR', bear: {
                 id: bears.length > 0 ? bears[bears.length-1].id+1 : 0,
