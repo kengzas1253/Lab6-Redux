@@ -1,4 +1,4 @@
-# Lab6-Redux
+# Lab6-Redux bear
 # run Server in bear-api
 npm i </br>
 node server.js </br>
