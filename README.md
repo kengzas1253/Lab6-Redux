@@ -1,4 +1,6 @@
 # Lab6-Redux bear
+# Demo App
+https://coe-client-redux-bears.herokuapp.com/
 # run Server in bear-api
 https://coe-bear-api.herokuapp.com/api/bears </br>
 npm i </br>
