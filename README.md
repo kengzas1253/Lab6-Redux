@@ -1,5 +1,6 @@
 # Lab6-Redux bear
 # run Server in bear-api
+https://coe-bear-api.herokuapp.com/api/bears
 npm i </br>
 node server.js </br>
 # redux-bear
